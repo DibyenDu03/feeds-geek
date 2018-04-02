@@ -5,4 +5,4 @@ keras
 numpy
 h5py
 pillow
-tensorflow == r1.4
+tensorflow
